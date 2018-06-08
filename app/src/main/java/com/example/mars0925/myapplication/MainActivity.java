@@ -40,6 +40,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bt1.setOnClickListener(this);
         bt2.setOnClickListener(this);
 
+        //再度聯手保羅？傳小喬丹盼加盟火箭
+        //再度聯手保羅？傳小喬丹盼加盟火箭
+        //再度聯手保羅？傳小喬丹盼加盟火箭
+        //再度聯手保羅？傳小喬丹盼加盟火箭
+
+        //再度聯手保羅？傳小喬丹盼加盟火箭
+        //再度聯手保羅？傳小喬丹盼加盟火箭
 
     }
 
